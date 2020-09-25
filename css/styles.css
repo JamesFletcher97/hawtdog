@@ -169,7 +169,7 @@ p {
   margin: 20px 10px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1028px) {
 
   #title {
     text-align: center;
@@ -179,15 +179,6 @@ p {
     position: static;
     transform: rotate(0);
   }
-  
-  @media (min-width: 1700px) and (max-width: 3000px) {
-    .carousel-inner{
-        height: 480px;
-    }
-    .testimonial-text {
-       width: 50%;
-       margin-left: 25%;
-    }
 
 }
 
