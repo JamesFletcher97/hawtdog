@@ -182,3 +182,35 @@ p {
 
 }
 
+@media (max-width: 768px){
+
+  .icon-header{
+    margin: 0;
+  }
+
+  .big-heading{
+    font-size: 3rem;
+  }
+
+  .navbar-brand{
+    margin-right: 0;
+  }
+
+  #pricing{
+    padding: 50px;
+  }
+
+  .title-image{
+    padding-top: 10px;
+  }
+
+  .testimonial-text{
+    font-size: 2rem;
+  }
+
+  .press-logo{
+    width: 25%;
+  }
+
+}
+
